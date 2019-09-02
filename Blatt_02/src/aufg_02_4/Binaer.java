@@ -49,7 +49,7 @@ public class Binaer {
 
 	void setDecimal() {
 
-		if(this.bit1=1) {}
+		
 		
 		
 		/*
